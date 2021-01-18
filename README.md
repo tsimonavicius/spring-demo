@@ -1,15 +1,15 @@
-#Development task
+# Development task
 
 Create REST API to calculate factorial of provided number. 
 
 In mathematics, the factorial of a positive integer n, denoted by n!, is the product of all positive integers less than or equal to n. 
-For example:
-5! = 5 * 4 * 3 * 2 * 1 = 120
+For example:  
+`5! = 5 * 4 * 3 * 2 * 1 = 120`
 
-Rules:
-0! = 1
+Rules:  
+`0! = 1
 1! = 1
--n! = non existing
+-n! = non existing`
 
 Requirements:
 * Use Spring infrastructure (Spring boot, Spring Framework, Spring Data…)
