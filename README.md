@@ -7,9 +7,9 @@ For example:
 `5! = 5 * 4 * 3 * 2 * 1 = 120`
 
 Rules:  
-`0! = 1
-1! = 1
--n! = non existing`
+`0! = 1`  
+`1! = 1`  
+`-n! = non existing`
 
 Requirements:
 * Use Spring infrastructure (Spring boot, Spring Framework, Spring Data…)
